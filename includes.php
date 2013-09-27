@@ -2,8 +2,8 @@
 
 $config['db'] = array(
         'host'          => 'localhost',
-        'username'      => 'root',
-        'password'      => 'rachel',
+        'username'      => '',
+        'password'      => '',
         'dbname'        => 'nettuts_blog'
     );
 
